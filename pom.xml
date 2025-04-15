@@ -80,6 +80,7 @@
     </dependencies>
 
     <build>
+        <finalName>pacientes-microservice-api</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
